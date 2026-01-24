@@ -1,0 +1,5 @@
+Ram Sharma - Developer - Python
+Anil Thapa - Data Analyst - Python
+Ramesh Adhikari - Backend Developer - Python
+Kiran Rai - Machine Learning Engineer - Python
+Aayush KC - Automation Engineer - Python
