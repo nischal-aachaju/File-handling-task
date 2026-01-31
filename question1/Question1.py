@@ -8,10 +8,10 @@ def extract_firstword(words_lst):
         first_word=words[0]
         # print(first_word)
         first_word_lst.append(first_word)
+    return first_word_lst
 
 words_lst=file.readlines()
-extract_firstword(words_lst)
-print(first_word_lst)
+print(extract_firstword(words_lst))
 
 
 
